@@ -1,6 +1,3 @@
-package com.demojava;
-
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Hello {
